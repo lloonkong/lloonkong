@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lloonkong
+- 🌱 I’m currently learning C/C++/Python
+- 📫 How to reach me zackdokong4develop@gmail.com
